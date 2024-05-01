@@ -13,8 +13,7 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - run: echo ${{ github.ref_name }}
-      - run: echo ${{ github.ref }}
+      - run: echo ${{ github }}
       - uses: google-github-actions/release-please-action@v4
         id: release
         with:
