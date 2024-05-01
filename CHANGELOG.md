@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/jariikonen/npm-version-test/compare/v0.0.1...v0.0.2) (2024-05-01)
+
+
+### Bug Fixes
+
+* test committing with the fix type ([f8b109e](https://github.com/jariikonen/npm-version-test/commit/f8b109e07b34c9cd03da2a8fab6a28a975862d28))
+
 ## 0.0.1 (2024-05-01)
 
 
