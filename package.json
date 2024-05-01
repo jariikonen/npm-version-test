@@ -1,6 +1,6 @@
 {
   "name": "npm-version-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Testing version numbering and publishing npm packages.",
   "main": "index.js",
   "scripts": {
