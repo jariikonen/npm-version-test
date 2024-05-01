@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/jariikonen/npm-version-test/compare/v0.0.2...v0.0.3) (2024-05-01)
+
+
+### Bug Fixes
+
+* test creating a prerelease ([0cd1408](https://github.com/jariikonen/npm-version-test/commit/0cd14083ddae245df27d15dbec557a1738530ef4))
+
 ## [0.0.2](https://github.com/jariikonen/npm-version-test/compare/v0.0.1...v0.0.2) (2024-05-01)
 
 
