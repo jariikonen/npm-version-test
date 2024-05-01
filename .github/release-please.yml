@@ -1,0 +1,26 @@
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v4
+        id: release
+        with:
+          # a personal access token (PAT) for the release
+          token: ${{ secrets.RELEASE_TOKEN }}
+          # this is a built-in strategy in release-please, see "Action Inputs"
+          # for more options
+          release-type: node
+      - name: release-created
+        run: echo "Release created"
+        if: ${{ steps.release.outputs.release_created }}
