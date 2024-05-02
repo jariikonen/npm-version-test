@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/jariikonen/npm-version-test/compare/v0.1.1...v1.0.0) (2024-05-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* trying "prerelease: true" in release-please-config.json
+
+### Features
+
+* trying "prerelease: true" in release-please-config.json ([fb954e0](https://github.com/jariikonen/npm-version-test/commit/fb954e0f3e7d7bcf182029b43e62bdd379477ba3))
+
 ## [0.1.1](https://github.com/jariikonen/npm-version-test/compare/v0.1.0...v0.1.1) (2024-05-02)
 
 
