@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/jariikonen/npm-version-test/compare/v0.0.3...v0.0.4) (2024-05-02)
+
+
+### Bug Fixes
+
+* update README.md ([9ebbeba](https://github.com/jariikonen/npm-version-test/commit/9ebbeba1b7d6639598b8999a252406ca2a724b6a))
+
 ## [0.0.3](https://github.com/jariikonen/npm-version-test/compare/v0.0.2...v0.0.3) (2024-05-02)
 
 
