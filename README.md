@@ -1,3 +1,3 @@
 # npm-version-test
 
-This file has been modified 1 times.
+This file has been modified 2 times.
