@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.0.0](https://github.com/jariikonen/npm-version-test/compare/v0.1.1...v1.0.0) (2024-05-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* edit manifest config file and add manifest file paths to workflow file
+* add prerelease type
+* trying "prerelease: true" in release-please-config.json
+
+### Features
+
+* add prerelease type ([5fb6c24](https://github.com/jariikonen/npm-version-test/commit/5fb6c24ff553f7d6c2e6468e1c60cc527e460b2b))
+* edit manifest config file and add manifest file paths to workflow file ([8716965](https://github.com/jariikonen/npm-version-test/commit/871696533b4f9a18253636f7d0046865cb7e6cd2))
+* trying "prerelease: true" in release-please-config.json ([fb954e0](https://github.com/jariikonen/npm-version-test/commit/fb954e0f3e7d7bcf182029b43e62bdd379477ba3))
+
+
+### Miscellaneous Chores
+
+* release 1.0.0.alpha ([09c3b76](https://github.com/jariikonen/npm-version-test/commit/09c3b76a534e1f82d1812789d1a214d84edcac93))
+
 ## [0.1.1](https://github.com/jariikonen/npm-version-test/compare/v0.1.0...v0.1.1) (2024-05-02)
 
 
