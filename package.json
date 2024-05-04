@@ -1,5 +1,5 @@
 {
-  "name": "npm-version-test",
+  "name": "@jariikonen/npm-version-test",
   "version": "1.0.0",
   "description": "Testing version numbering and publishing npm packages.",
   "main": "index.js",
