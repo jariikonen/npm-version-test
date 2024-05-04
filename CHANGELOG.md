@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.2](https://github.com/jariikonen/npm-version-test/compare/v1.0.1...v1.0.2) (2024-05-04)
+
+
+### Bug Fixes
+
+* fix typo in job name ([b2ffbfb](https://github.com/jariikonen/npm-version-test/commit/b2ffbfb1c544817c4e0eea8b84101bc204aed55c))
+* move npm publishing to the same job with release creation ([d08d677](https://github.com/jariikonen/npm-version-test/commit/d08d6771eb8fdc9fd620578c8db253eba0131286))
+* try printing the release-please job output ([0c5979e](https://github.com/jariikonen/npm-version-test/commit/0c5979ea2d4c80bb4ad3b27c6795f75561b8a257))
+* try running publish job only if release was created ([89e81f1](https://github.com/jariikonen/npm-version-test/commit/89e81f19bc26b45c08c4868928917062f6680295))
+
 ## [1.0.1](https://github.com/jariikonen/npm-version-test/compare/v1.0.0...v1.0.1) (2024-05-04)
 
 
