@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/jariikonen/npm-version-test/compare/v1.0.3...v1.0.4) (2024-05-06)
+
+
+### Bug Fixes
+
+* fix a typo in package description ([972ee36](https://github.com/jariikonen/npm-version-test/commit/972ee363d595fd2f65681a34c70ef061840baa71))
+
 ## [1.0.3](https://github.com/jariikonen/npm-version-test/compare/v1.0.2...v1.0.3) (2024-05-06)
 
 
