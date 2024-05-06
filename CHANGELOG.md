@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/jariikonen/npm-version-test/compare/v1.0.2...v1.0.3) (2024-05-06)
+
+
+### Bug Fixes
+
+* switch back to PAT token and remove permissions node from the workflow ([895b9e0](https://github.com/jariikonen/npm-version-test/commit/895b9e08325f002aa6e15d4d450dfa3c06614839))
+* try release-please with the GitHub token instead of a PAT token ([386ba08](https://github.com/jariikonen/npm-version-test/commit/386ba08a9e3c3b20151118e12d9599357646edc0))
+
 ## [1.0.2](https://github.com/jariikonen/npm-version-test/compare/v1.0.1...v1.0.2) (2024-05-04)
 
 
